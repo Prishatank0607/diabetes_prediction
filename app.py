@@ -155,4 +155,4 @@ else:
                     'Age': age
                 }
                 clear_edit_mode()
-                st.experimental_rerun()
+                st.rerun()
