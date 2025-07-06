@@ -79,6 +79,6 @@ streamlit run app.py
 
 The app is deployed using **Streamlit Cloud** and is accessible at:
 
-🔗 [Live App Link](https://your-streamlit-cloud-link)
+🔗 [Diabetes-prediction-web-application](https://diabetes-prediction-wapplication.streamlit.app/)
 
 
