@@ -2,6 +2,8 @@
 
 An interactive and user-friendly web application built with **Streamlit** that predicts whether a person is diabetic based on health metrics using a **Random Forest Classifier**. The app allows users to input data, receive predictions, visualize the model output, and download results.
 
+🔗 [Diabetes Prediction Application](https://diabetes-prediction-wapplication.streamlit.app/)
+
 ---
 
 ## About the Project
@@ -74,11 +76,5 @@ streamlit run app.py
 ```
 
 ---
-
-## Live Deployment
-
-The app is deployed using **Streamlit Cloud** and is accessible at:
-
-🔗 [Diabetes-prediction-web-application](https://diabetes-prediction-wapplication.streamlit.app/)
 
 
